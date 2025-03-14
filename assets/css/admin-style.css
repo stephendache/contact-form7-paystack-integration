@@ -1,0 +1,50 @@
+/* CF7 Paystack Admin Styles */
+
+.wrap h1 {
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.form-table th {
+    width: 250px;
+    padding: 12px 10px;
+}
+
+.form-table td {
+    padding: 12px 10px;
+}
+
+input[type="text"],
+input[type="url"],
+input[type="email"] {
+    width: 100%;
+    max-width: 400px;
+    padding: 8px;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+}
+
+.button-primary {
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.notice-success {
+    background: #dff0d8;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.notice-error {
+    background: #f2dede;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+table.widefat th {
+    background: #f1f1f1;
+}
+
+table.widefat tr:nth-child(even) {
+    background: #fafafa;
+}

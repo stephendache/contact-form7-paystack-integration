@@ -1,0 +1,20 @@
+msgid "Paystack Public Key"
+msgstr ""
+
+msgid "Paystack Secret Key"
+msgstr ""
+
+msgid "Currency (NGN, USD, GHS)"
+msgstr ""
+
+msgid "Success Redirect URL"
+msgstr ""
+
+msgid "Failure Redirect URL"
+msgstr ""
+
+msgid "Contact Form 7 + Paystack Setup Wizard"
+msgstr ""
+
+msgid "Save & Continue"
+msgstr ""
