@@ -1,4 +1,3 @@
-```markdown
 # 🎉 Contact Form 7 + Paystack Integration Plugin
 
 A simple WordPress plugin that connects **Contact Form 7** with **Paystack** so people can make payments right from your forms!  
@@ -148,7 +147,7 @@ git push origin feature-your-feature-name
 
 Need help? Found a bug?  
 - Open an **Issue** on GitHub.
-- Email us: [iamstepaul@gmail.com](mailto:iamstepaul@gmail.com).
+- Email us: [support@techoconference.com](mailto:support@techoconference.com).
 
 ---
 
@@ -160,3 +159,18 @@ MIT License — Free to use, modify, and share. Just give credit! 🎉
 
 ### 🚀 Let's Go Make Payments Easy!
 ```
+
+---
+
+### ✅ All you need to do now:
+1. **Copy** this entire block into a file called `README.md`.
+2. Put it inside your plugin root folder `contact-form7-paystack-integration/`.
+3. When you push to GitHub, GitHub will automatically display this as your plugin's landing page.
+
+---
+
+🎯 **Next up (if you want)**:
+- I can help create **contributing guidelines**, a **license file**, or **screenshots** for GitHub.
+- Or start building the **refund + invoice feature**?
+
+Let me know! 🚀🔥
