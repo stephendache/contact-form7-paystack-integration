@@ -1,0 +1,51 @@
+# ----------------------------------------
+# WordPress Plugin Git Ignore
+# ----------------------------------------
+
+# Ignore hidden system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Ignore OS-specific files
+__MACOSX/
+
+# Ignore IDE and editor files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+*.code-workspace
+
+# Ignore composer and npm files (if not used)
+node_modules/
+vendor/
+package-lock.json
+yarn.lock
+composer.lock
+
+# Ignore build assets (optional, if generated)
+dist/
+build/
+*.log
+
+# WordPress core files (in case working inside WordPress install)
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+
+# Ignore debug log
+debug.log
+
+# Git ignore for zip releases (optional)
+*.zip
+
+# Ignore backup files
+*.bak
+*.tmp
+*.swp
+*.orig
